@@ -5,13 +5,16 @@ This document highlights five key game genres and includes instructions on how t
 ---
 
 ## **1. Action Games**
+
 Action games focus on fast-paced gameplay that requires quick reflexes and real-time decision-making.
 
-### **Subgenres**:
+### **Subgenres**
+
 - **Platformers**: Players navigate levels by jumping between platforms.
 - **Shooters**: Players use weapons to defeat enemies, either from a first-person or third-person perspective.
 
 ### **How to Play: Super Mario Bros. (Platformer)**
+
 1. **Objective**: Guide Mario through levels to rescue Princess Peach, avoiding enemies and obstacles.
 2. **Controls**:
    - **Movement**: Use the arrow keys or joystick to move left or right.
@@ -23,6 +26,7 @@ Action games focus on fast-paced gameplay that requires quick reflexes and real-
    - Reach the flag at the end of each level to progress.
 
 ### **How to Play: Call of Duty (Shooter)**
+
 1. **Objective**: Complete missions by defeating enemies and achieving specific objectives.
 2. **Controls**:
    - **Movement**: Use WASD keys or the joystick to move.
@@ -37,13 +41,16 @@ Action games focus on fast-paced gameplay that requires quick reflexes and real-
 ---
 
 ## **2. Role-Playing Games (RPGs)**
+
 RPGs emphasize character development and exploration, where players control a character (or party) and advance through a story.
 
-### **Subgenres**:
+### **Subgenres**
+
 - **Action RPG**: Combines real-time combat with RPG elements.
 - **Turn-Based RPG**: Players take turns to make decisions and attack enemies.
 
 ### **How to Play: The Witcher 3: Wild Hunt (Action RPG)**
+
 1. **Objective**: Play as Geralt of Rivia, completing quests, fighting monsters, and making choices that impact the game world.
 2. **Controls**:
    - **Movement**: Use WASD keys to move Geralt.
@@ -56,6 +63,7 @@ RPGs emphasize character development and exploration, where players control a ch
    - Explore the world for hidden treasures and side quests to level up.
 
 ### **How to Play: Final Fantasy VII (Turn-Based RPG)**
+
 1. **Objective**: Control a party of characters on a mission to stop an evil corporation and an ancient villain.
 2. **Controls**:
    - **Combat**: Choose actions from the menu—Attack, Magic, Item.
@@ -69,13 +77,16 @@ RPGs emphasize character development and exploration, where players control a ch
 ---
 
 ## **3. Puzzle Games**
+
 Puzzle games challenge players with logic, pattern recognition, and problem-solving.
 
-### **Subgenres**:
+### **Subgenres**
+
 - **Logic Puzzles**: Require solving problems through reasoning and deduction.
 - **Match-3**: Players match items in rows or columns to clear them from the board.
 
 ### **How to Play: Portal (Logic Puzzle)**
+
 1. **Objective**: Solve a series of puzzles using a portal gun that creates linked portals to move through space.
 2. **Controls**:
    - **Movement**: Use WASD keys to move.
@@ -87,6 +98,7 @@ Puzzle games challenge players with logic, pattern recognition, and problem-solv
    - Use boxes to hold down pressure plates and open doors.
 
 ### **How to Play: Candy Crush Saga (Match-3)**
+
 1. **Objective**: Match 3 or more identical candies to clear them and complete the level’s objectives.
 2. **Controls**:
    - **Swap Candies**: Use the mouse or touch to swap adjacent candies.
@@ -98,13 +110,16 @@ Puzzle games challenge players with logic, pattern recognition, and problem-solv
 ---
 
 ## **4. Strategy Games**
+
 Strategy games involve planning, resource management, and tactical decision-making to outsmart opponents or solve complex problems.
 
-### **Subgenres**:
+### **Subgenres**
+
 - **Real-Time Strategy (RTS)**: Players manage resources and units in real time.
 - **Turn-Based Strategy (TBS)**: Players take turns to make strategic moves.
 
 ### **How to Play: StarCraft II (RTS)**
+
 1. **Objective**: Build a base, gather resources, and command armies to defeat enemies.
 2. **Controls**:
    - **Movement**: Use the mouse to select units and right-click to move them.
@@ -116,6 +131,7 @@ Strategy games involve planning, resource management, and tactical decision-maki
    - Focus on building a balanced army with different types of units (e.g., air, ground).
 
 ### **How to Play: Civilization VI (TBS)**
+
 1. **Objective**: Build a civilization from the ground up, competing against other nations to achieve victory through military, culture, or diplomacy.
 2. **Controls**:
    - **Movement**: Use the mouse to move units across the map.
@@ -129,13 +145,16 @@ Strategy games involve planning, resource management, and tactical decision-maki
 ---
 
 ## **5. Simulation Games**
+
 Simulation games recreate real-world activities, often providing open-ended gameplay where players can manage or control systems.
 
-### **Subgenres**:
+### **Subgenres**
+
 - **Life Simulation**: Manage the day-to-day lives of virtual characters.
 - **Vehicle Simulation**: Control cars, planes, or other vehicles in a realistic environment.
 
 ### **How to Play: The Sims (Life Simulation)**
+
 1. **Objective**: Control virtual people (Sims) by managing their needs, careers, and relationships.
 2. **Controls**:
    - **Movement**: Use the mouse to interact with objects and characters.
@@ -147,6 +166,7 @@ Simulation games recreate real-world activities, often providing open-ended game
    - Customize your house to improve your Sim’s quality of life.
 
 ### **How to Play: Microsoft Flight Simulator (Vehicle Simulation)**
+
 1. **Objective**: Pilot a variety of aircraft in realistic flight conditions, from small planes to commercial jets.
 2. **Controls**:
    - **Movement**: Use a joystick or keyboard to control the plane’s movement (e.g., throttle, ailerons, rudder).
@@ -160,5 +180,5 @@ Simulation games recreate real-world activities, often providing open-ended game
 ---
 
 ## **Conclusion**
-These five genres—Action, RPGs, Puzzle, Strategy, and Simulation—offer diverse and exciting experiences for players. By understanding how to play games in each genre, you can explore different gaming styles and find your favorite.
 
+These five genres—Action, RPGs, Puzzle, Strategy, and Simulation—offer diverse and exciting experiences for players. By understanding how to play games in each genre, you can explore different gaming styles and find your favorite.
