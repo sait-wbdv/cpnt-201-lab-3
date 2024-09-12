@@ -1,6 +1,6 @@
 # **Types of Games**
 
-This document highlights five key game genres and includes instructions on how to play at least one popular game in each genre. Explore different gaming styles, from fast-paced action to strategic thinking.
+This document highlights five key game genres and includes instructions on how to play at least two popular game in each genre. Explore different gaming styles, from fast-paced action to strategic thinking.
 
 ---
 
